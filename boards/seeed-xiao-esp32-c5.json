@@ -42,7 +42,10 @@
         "maximum_ram_size": 327680,
         "maximum_size": 1310720,
         "require_upload_port": true,
-        "speed": 460800
+        "speed": 460800,
+        "flags": [
+            "--no-stub"
+        ]
     },
     "url": "https://wiki.seeedstudio.com/SeeedStudio_XIAO_Series_Introduction/",
     "vendor": "Seeed Studio"
